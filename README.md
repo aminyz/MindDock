@@ -9,7 +9,7 @@ This first desktop version includes:
 - Modular app registry
 - Local JSON data storage
 - Task management
-- Daily, weekly, and monthly calendar views
+- Daily, weekly, and monthly persian calendar views
 - Desktop reminders for today's unfinished tasks
 - Focus timer
 - Habit tracker
